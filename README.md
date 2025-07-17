@@ -6,6 +6,16 @@ Apaixonado por inovação e em constante busca por conhecimento, sou um profissi
 Atualmente, estou em transição de carreira para a área de Desenvolvimento Backend. Estou aprofundando meus estudos em Java e frameworks como Spring Boot e Quarkus, além de tecnologias como Git, Spring Security, APIs REST e Docker.
 Meu foco é aplicar práticas sólidas de desenvolvimento, segurança e versionamento de código para construir aplicações robustas e escaláveis.
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sampadev/sampadev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sampadev/sampadev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sampadev/sampadev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 💼 Conecte-se comigo
 
 Sinta-se à vontade para visitar minhas redes e conhecer mais sobre meu trabalho e trajetória:
