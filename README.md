@@ -1,49 +1,112 @@
-<h1 align="center">Elivelton Sampaio 🤖</h1>
+# 💻Elivelton Sampaio
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+**`Desenvolvedor BackEnd`**
 
-###
+Apaixonado por inovação e em constante busca por conhecimento, sou um profissional hands-on com facilidade para aprender novas tecnologias. Tenho experiência como Analista de Testes Automatizados, atuando com automação de testes em UI e APIs utilizando Java, Selenium e RestAssured.
+Atualmente, estou em transição de carreira para a área de Desenvolvimento Backend. Estou aprofundando meus estudos em Java e frameworks como Spring Boot e Quarkus, além de tecnologias como Git, Spring Security, APIs REST e Docker.
+Meu foco é aplicar práticas sólidas de desenvolvimento, segurança e versionamento de código para construir aplicações robustas e escaláveis.
 
-<h2 align="center">Desenvolvedor Backend 👨🏻‍💻</h2>
+## 💼 Conecte-se comigo
 
-###
+Sinta-se à vontade para visitar minhas redes e conhecer mais sobre meu trabalho e trajetória:
 
-<p align="center">Apaixonado por inovação e em constante busca por conhecimento, sou um profissional hands-on com facilidade para aprender novas tecnologias. Tenho experiência como Analista de Testes Automatizados, atuando com automação de testes em UI e APIs utilizando Java, Selenium e RestAssured. Atualmente, estou em transição de carreira para a área de Desenvolvimento Backend. Estou aprofundando meus estudos em Java e frameworks como Spring Boot e Quarkus, além de tecnologias como Git, Spring Security, APIs REST e Docker. Meu foco é aplicar práticas sólidas de desenvolvimento, segurança e versionamento de código para construir aplicações robustas e escaláveis.</p>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elivelton%20Sampaio-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliveltonsampaio)
 
-###
+## 📁 Meus repositórios
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
+Confira meus projetos públicos para ver no que estou trabalhando ou praticando. Fique à vontade para deixar sugestões, contribuir ou simplesmente trocar uma ideia!
 
-###
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eliveltonsampaio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Quarkus" 
+    title="Quarkus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
 
-###
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
-<h3 align="center">Meus repositórios 📁</h3>
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
 
-###
+<img 
+    align="left" 
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-<p align="center">Confira meus projetos públicos para ver no que estou trabalhando ou praticando. Fique à vontade para deixar sugestões, contribuir ou simplesmente trocar uma ideia!</p>
+<br/>
+<br/>
